@@ -10,6 +10,7 @@
 ### UX
 <p>UX Architect: 0xFLOW 2019.10~2020.03<p>
 <p>UX Architect: Langcode 2020.08~2021.05<p>
+  
 ### CCO
 <p>Chief Communications Officer(CCO)&Co-founder: Langcode 2021.05~
 
